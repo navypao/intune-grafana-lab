@@ -1,0 +1,201 @@
+DeviceName,UserPrincipalName,OperatingSystem,OSVersion,ComplianceState,LastCheckIn,Manufacturer,Model
+MACBOOK-1000,user16@company.com,Android,14,compliant,2026-01-29,Samsung,Galaxy Tab S8
+LAPTOP-1001,user6@company.com,Windows,11,compliant,2026-02-13,Microsoft,Surface Laptop 5
+ANDROID-1002,user45@company.com,iOS,17,compliant,2026-03-03,Apple,iPad Air
+DESKTOP-1003,user45@company.com,macOS,12,compliant,2026-02-28,Apple,MacBook Pro
+LAPTOP-1004,user25@company.com,Windows,11,compliant,2026-01-22,Lenovo,ThinkPad T14
+IPHONE-1005,user35@company.com,Windows,10,compliant,2026-01-17,Dell,OptiPlex 7090
+IPAD-1006,user24@company.com,macOS,14,compliant,2026-01-31,Apple,iPad Air
+LAPTOP-1007,user15@company.com,Windows,11,noncompliant,2026-02-21,HP,ProBook 450
+MACBOOK-1008,user23@company.com,Windows,10,compliant,2026-02-28,Lenovo,ThinkPad T14
+IPAD-1009,user41@company.com,Android,12,compliant,2026-01-30,Xiaomi,Mi 12
+MACBOOK-1010,user41@company.com,Windows,11,compliant,2026-03-03,Microsoft,Surface Pro 9
+LAPTOP-1011,user21@company.com,Android,13,compliant,2026-03-13,Samsung,Galaxy S22
+IPHONE-1012,user26@company.com,Windows,10,noncompliant,2026-02-04,HP,ZBook
+DESKTOP-1013,user48@company.com,macOS,14,compliant,2026-03-01,Apple,MacBook Air
+MACBOOK-1014,user15@company.com,Android,12,inGracePeriod,2026-03-09,Google,Pixel 6
+LAPTOP-1015,user10@company.com,iOS,16,compliant,2026-01-26,Apple,MacBook Pro
+IPHONE-1016,user25@company.com,Android,13,compliant,2026-02-16,Xiaomi,Mi 12
+ANDROID-1017,user8@company.com,iOS,16,compliant,2026-02-11,Apple,iPad Air
+IPHONE-1018,user11@company.com,Windows,10,compliant,2026-01-30,Dell,XPS 13
+IPAD-1019,user7@company.com,Android,13,noncompliant,2026-02-26,Xiaomi,Mi 12
+DESKTOP-1020,user24@company.com,Android,12,compliant,2026-02-11,Xiaomi,Mi 12
+LAPTOP-1021,user8@company.com,iOS,17,noncompliant,2026-01-20,Apple,iPhone 13
+IPAD-1022,user6@company.com,Windows,11,compliant,2026-02-14,Dell,Latitude 7420
+IPHONE-1023,user36@company.com,Windows,11,compliant,2026-02-12,HP,ZBook
+ANDROID-1024,user45@company.com,iOS,16,compliant,2026-02-26,Apple,iPad Pro
+IPAD-1025,user29@company.com,macOS,12,compliant,2026-03-03,Apple,iPhone 13
+IPAD-1026,user15@company.com,Windows,10,compliant,2026-03-17,Dell,OptiPlex 7090
+LAPTOP-1027,user22@company.com,Windows,11,compliant,2026-03-02,HP,EliteBook 840
+DESKTOP-1028,user47@company.com,Windows,10,noncompliant,2026-02-09,HP,ZBook
+IPHONE-1029,user13@company.com,iOS,16,compliant,2026-02-03,Apple,iPhone 13
+IPHONE-1030,user47@company.com,macOS,13,compliant,2026-02-04,Apple,iPhone 13
+ANDROID-1031,user22@company.com,Android,14,noncompliant,2026-03-11,Samsung,Galaxy S21
+IPHONE-1032,user9@company.com,Windows,11,compliant,2026-02-28,HP,ZBook
+IPAD-1033,user7@company.com,macOS,14,compliant,2026-02-11,Apple,iPhone 13
+IPHONE-1034,user32@company.com,Windows,11,compliant,2026-01-21,HP,EliteBook 840
+LAPTOP-1035,user25@company.com,macOS,14,compliant,2026-01-26,Apple,iPhone 13
+ANDROID-1036,user36@company.com,macOS,13,compliant,2026-02-14,Apple,iPad Air
+LAPTOP-1037,user38@company.com,Windows,11,compliant,2026-03-14,Lenovo,ThinkPad T14
+IPAD-1038,user31@company.com,Android,13,compliant,2026-01-22,Samsung,Galaxy S22
+LAPTOP-1039,user12@company.com,iOS,17,compliant,2026-03-13,Apple,iPad Pro
+IPAD-1040,user16@company.com,Android,14,compliant,2026-03-15,Google,Pixel 7
+IPAD-1041,user37@company.com,iOS,17,compliant,2026-01-17,Apple,iPad Air
+MACBOOK-1042,user26@company.com,Windows,11,compliant,2026-02-04,Lenovo,ThinkPad T14
+LAPTOP-1043,user30@company.com,Windows,10,compliant,2026-02-09,Lenovo,ThinkPad T14
+MACBOOK-1044,user9@company.com,Windows,11,noncompliant,2026-01-20,HP,ZBook
+DESKTOP-1045,user29@company.com,Windows,11,noncompliant,2026-01-31,Lenovo,ThinkPad X1
+LAPTOP-1046,user9@company.com,Windows,11,compliant,2026-01-20,Lenovo,ThinkCentre
+IPAD-1047,user14@company.com,Windows,11,compliant,2026-03-04,Lenovo,ThinkPad X1
+MACBOOK-1048,user4@company.com,Android,12,compliant,2026-02-18,Google,Pixel 6
+DESKTOP-1049,user41@company.com,Windows,11,inGracePeriod,2026-03-07,Dell,XPS 13
+IPAD-1050,user1@company.com,Android,13,compliant,2026-01-16,Xiaomi,Redmi Note 11
+MACBOOK-1051,user38@company.com,Android,14,compliant,2026-02-18,Xiaomi,Mi 12
+LAPTOP-1052,user23@company.com,Windows,11,compliant,2026-03-02,Lenovo,ThinkPad X1
+IPAD-1053,user48@company.com,Android,14,compliant,2026-01-17,Google,Pixel 6
+LAPTOP-1054,user12@company.com,Windows,11,compliant,2026-02-24,HP,ProBook 450
+DESKTOP-1055,user45@company.com,macOS,12,compliant,2026-01-21,Apple,iPhone 14
+IPHONE-1056,user23@company.com,Windows,10,compliant,2026-01-26,HP,EliteBook 840
+DESKTOP-1057,user26@company.com,Windows,11,compliant,2026-01-21,Dell,OptiPlex 7090
+IPAD-1058,user26@company.com,Windows,10,compliant,2026-01-23,Lenovo,ThinkCentre
+MACBOOK-1059,user12@company.com,iOS,16,compliant,2026-03-01,Apple,MacBook Pro
+ANDROID-1060,user21@company.com,Windows,11,compliant,2026-02-13,Microsoft,Surface Pro 9
+LAPTOP-1061,user46@company.com,Windows,10,compliant,2026-02-12,HP,ProBook 450
+LAPTOP-1062,user43@company.com,iOS,17,noncompliant,2026-02-06,Apple,iPhone 13
+MACBOOK-1063,user43@company.com,Windows,11,compliant,2026-02-20,Lenovo,ThinkCentre
+DESKTOP-1064,user27@company.com,Android,13,compliant,2026-02-21,Xiaomi,Mi 12
+IPAD-1065,user20@company.com,Android,12,compliant,2026-01-23,Samsung,Galaxy Tab S8
+IPHONE-1066,user38@company.com,Windows,10,compliant,2026-02-25,Lenovo,ThinkPad T14
+DESKTOP-1067,user33@company.com,macOS,13,compliant,2026-01-19,Apple,iPad Air
+MACBOOK-1068,user33@company.com,Android,14,compliant,2026-02-06,Xiaomi,Mi 12
+MACBOOK-1069,user15@company.com,Windows,11,noncompliant,2026-03-08,HP,ZBook
+IPAD-1070,user50@company.com,Windows,11,compliant,2026-02-19,HP,ProBook 450
+ANDROID-1071,user25@company.com,Android,12,compliant,2026-03-02,Samsung,Galaxy Tab S8
+DESKTOP-1072,user12@company.com,Windows,11,noncompliant,2026-02-01,Dell,XPS 13
+DESKTOP-1073,user8@company.com,iOS,16,compliant,2026-01-25,Apple,iPad Pro
+IPAD-1074,user47@company.com,macOS,12,noncompliant,2026-02-18,Apple,iPhone 13
+IPHONE-1075,user29@company.com,iOS,16,compliant,2026-03-02,Apple,iPad Air
+ANDROID-1076,user16@company.com,Android,13,compliant,2026-03-13,Xiaomi,Redmi Note 11
+MACBOOK-1077,user21@company.com,Android,13,noncompliant,2026-03-12,Samsung,Galaxy S21
+ANDROID-1078,user10@company.com,Windows,11,compliant,2026-03-13,HP,ProBook 450
+IPHONE-1079,user27@company.com,macOS,13,compliant,2026-01-23,Apple,iPad Pro
+IPHONE-1080,user31@company.com,macOS,13,compliant,2026-02-23,Apple,iPad Pro
+IPHONE-1081,user15@company.com,Windows,10,compliant,2026-02-14,Microsoft,Surface Laptop 5
+ANDROID-1082,user26@company.com,Windows,10,compliant,2026-01-23,Lenovo,ThinkCentre
+IPAD-1083,user37@company.com,macOS,14,compliant,2026-03-12,Apple,iPhone 13
+DESKTOP-1084,user4@company.com,Android,13,compliant,2026-02-25,Samsung,Galaxy S21
+IPHONE-1085,user18@company.com,Windows,10,compliant,2026-01-23,Lenovo,ThinkPad X1
+LAPTOP-1086,user48@company.com,macOS,13,compliant,2026-01-16,Apple,iPhone 13
+LAPTOP-1087,user49@company.com,Windows,11,compliant,2026-03-02,Dell,OptiPlex 7090
+DESKTOP-1088,user31@company.com,Windows,11,compliant,2026-02-09,HP,EliteBook 840
+DESKTOP-1089,user39@company.com,Windows,10,compliant,2026-01-29,Lenovo,ThinkPad X1
+LAPTOP-1090,user38@company.com,Android,14,compliant,2026-02-26,Samsung,Galaxy S21
+DESKTOP-1091,user5@company.com,iOS,16,compliant,2026-01-23,Apple,iPad Air
+MACBOOK-1092,user44@company.com,Android,14,compliant,2026-03-10,Samsung,Galaxy Tab S8
+IPHONE-1093,user43@company.com,iOS,17,compliant,2026-02-13,Apple,iPad Pro
+IPHONE-1094,user7@company.com,Android,13,compliant,2026-02-22,Samsung,Galaxy S21
+IPHONE-1095,user12@company.com,Android,13,compliant,2026-02-04,Xiaomi,Mi 12
+ANDROID-1096,user38@company.com,Windows,10,compliant,2026-01-22,Microsoft,Surface Pro 9
+DESKTOP-1097,user49@company.com,Windows,11,compliant,2026-02-06,Lenovo,ThinkPad X1
+IPHONE-1098,user21@company.com,Android,13,compliant,2026-03-04,Google,Pixel 7
+IPAD-1099,user45@company.com,Windows,10,noncompliant,2026-02-10,Lenovo,ThinkPad X1
+ANDROID-1100,user27@company.com,Windows,11,compliant,2026-01-28,Dell,Latitude 7420
+LAPTOP-1101,user6@company.com,Windows,10,compliant,2026-02-20,Microsoft,Surface Pro 9
+IPHONE-1102,user36@company.com,Android,14,compliant,2026-02-18,Google,Pixel 6
+ANDROID-1103,user30@company.com,Android,12,compliant,2026-03-01,Google,Pixel 6
+LAPTOP-1104,user48@company.com,Windows,11,compliant,2026-01-28,HP,ProBook 450
+ANDROID-1105,user31@company.com,Android,14,compliant,2026-02-08,Samsung,Galaxy S22
+MACBOOK-1106,user15@company.com,iOS,16,compliant,2026-02-26,Apple,MacBook Air
+LAPTOP-1107,user36@company.com,Windows,11,compliant,2026-01-16,Lenovo,ThinkPad T14
+IPAD-1108,user19@company.com,Windows,10,compliant,2026-02-17,Dell,Latitude 7420
+IPHONE-1109,user8@company.com,Windows,11,noncompliant,2026-02-20,Dell,XPS 13
+DESKTOP-1110,user37@company.com,macOS,14,noncompliant,2026-03-12,Apple,MacBook Air
+IPAD-1111,user25@company.com,Windows,11,compliant,2026-02-17,Microsoft,Surface Laptop 5
+IPAD-1112,user4@company.com,Windows,10,compliant,2026-01-29,Lenovo,ThinkCentre
+ANDROID-1113,user6@company.com,Windows,11,compliant,2026-03-06,HP,ProBook 450
+IPHONE-1114,user29@company.com,iOS,17,compliant,2026-02-15,Apple,MacBook Pro
+ANDROID-1115,user19@company.com,Windows,11,compliant,2026-02-16,HP,ProBook 450
+IPAD-1116,user43@company.com,Windows,11,noncompliant,2026-03-05,Lenovo,ThinkCentre
+DESKTOP-1117,user18@company.com,macOS,14,noncompliant,2026-03-13,Apple,iPad Air
+ANDROID-1118,user37@company.com,Windows,11,noncompliant,2026-02-17,Lenovo,ThinkCentre
+IPHONE-1119,user18@company.com,Windows,10,compliant,2026-02-14,Lenovo,ThinkCentre
+ANDROID-1120,user21@company.com,macOS,14,compliant,2026-03-16,Apple,iPhone 13
+MACBOOK-1121,user37@company.com,Windows,11,compliant,2026-01-28,Dell,OptiPlex 7090
+DESKTOP-1122,user38@company.com,Windows,10,compliant,2026-01-24,Microsoft,Surface Pro 9
+IPHONE-1123,user22@company.com,macOS,14,compliant,2026-03-11,Apple,iPhone 14
+MACBOOK-1124,user43@company.com,Windows,10,noncompliant,2026-01-24,Microsoft,Surface Pro 9
+MACBOOK-1125,user17@company.com,iOS,17,compliant,2026-01-27,Apple,MacBook Pro
+IPAD-1126,user30@company.com,macOS,12,compliant,2026-03-05,Apple,iPad Air
+IPHONE-1127,user49@company.com,iOS,16,compliant,2026-02-28,Apple,iPad Air
+ANDROID-1128,user32@company.com,iOS,17,compliant,2026-02-05,Apple,iPhone 13
+IPAD-1129,user1@company.com,iOS,17,compliant,2026-03-12,Apple,iPhone 14
+ANDROID-1130,user10@company.com,Windows,11,compliant,2026-01-31,Microsoft,Surface Laptop 5
+IPHONE-1131,user16@company.com,Windows,10,compliant,2026-03-08,Microsoft,Surface Pro 9
+MACBOOK-1132,user50@company.com,macOS,14,compliant,2026-02-19,Apple,MacBook Pro
+ANDROID-1133,user20@company.com,Windows,10,noncompliant,2026-02-08,Dell,XPS 13
+IPAD-1134,user31@company.com,Android,13,compliant,2026-02-10,Samsung,Galaxy S21
+DESKTOP-1135,user45@company.com,iOS,16,compliant,2026-02-21,Apple,iPhone 14
+ANDROID-1136,user31@company.com,Windows,10,compliant,2026-01-25,Dell,XPS 13
+LAPTOP-1137,user9@company.com,macOS,13,compliant,2026-02-08,Apple,iPhone 13
+IPAD-1138,user30@company.com,Windows,11,compliant,2026-03-08,Microsoft,Surface Laptop 5
+IPHONE-1139,user17@company.com,macOS,12,compliant,2026-02-01,Apple,MacBook Pro
+ANDROID-1140,user35@company.com,macOS,12,compliant,2026-02-25,Apple,iPhone 14
+IPAD-1141,user5@company.com,Android,12,compliant,2026-02-02,Google,Pixel 7
+LAPTOP-1142,user49@company.com,Windows,11,compliant,2026-01-21,Dell,XPS 13
+MACBOOK-1143,user2@company.com,Windows,10,compliant,2026-01-26,HP,ZBook
+IPHONE-1144,user10@company.com,Windows,10,compliant,2026-02-19,Lenovo,ThinkPad X1
+LAPTOP-1145,user40@company.com,iOS,17,noncompliant,2026-02-06,Apple,MacBook Air
+DESKTOP-1146,user30@company.com,Android,14,compliant,2026-02-16,Google,Pixel 7
+ANDROID-1147,user35@company.com,Windows,11,compliant,2026-02-17,Microsoft,Surface Pro 9
+IPHONE-1148,user20@company.com,Windows,10,compliant,2026-02-21,Microsoft,Surface Pro 9
+IPAD-1149,user23@company.com,macOS,14,compliant,2026-02-01,Apple,iPhone 13
+LAPTOP-1150,user37@company.com,Windows,11,noncompliant,2026-01-27,Microsoft,Surface Pro 9
+MACBOOK-1151,user50@company.com,Android,14,compliant,2026-02-07,Xiaomi,Redmi Note 11
+MACBOOK-1152,user44@company.com,Windows,11,compliant,2026-01-27,HP,ZBook
+LAPTOP-1153,user41@company.com,Android,12,compliant,2026-02-26,Samsung,Galaxy Tab S8
+DESKTOP-1154,user6@company.com,macOS,14,noncompliant,2026-02-25,Apple,iPad Air
+DESKTOP-1155,user35@company.com,Android,13,noncompliant,2026-02-22,Samsung,Galaxy S22
+IPHONE-1156,user19@company.com,iOS,16,compliant,2026-02-24,Apple,iPhone 14
+DESKTOP-1157,user44@company.com,Windows,10,compliant,2026-02-20,Dell,Latitude 7420
+LAPTOP-1158,user17@company.com,iOS,16,compliant,2026-02-16,Apple,iPhone 13
+LAPTOP-1159,user44@company.com,Windows,10,compliant,2026-03-16,Microsoft,Surface Pro 9
+LAPTOP-1160,user41@company.com,iOS,16,noncompliant,2026-01-18,Apple,iPad Air
+LAPTOP-1161,user9@company.com,Android,13,compliant,2026-03-15,Xiaomi,Redmi Note 11
+DESKTOP-1162,user35@company.com,Windows,10,compliant,2026-02-16,Dell,Latitude 7420
+ANDROID-1163,user7@company.com,Windows,10,noncompliant,2026-02-06,HP,ProBook 450
+MACBOOK-1164,user14@company.com,macOS,13,compliant,2026-01-16,Apple,iPad Air
+MACBOOK-1165,user35@company.com,Windows,10,noncompliant,2026-02-04,Dell,OptiPlex 7090
+DESKTOP-1166,user8@company.com,Windows,11,noncompliant,2026-01-24,Microsoft,Surface Pro 9
+ANDROID-1167,user39@company.com,macOS,14,inGracePeriod,2026-03-14,Apple,iPad Air
+DESKTOP-1168,user5@company.com,Windows,11,noncompliant,2026-02-10,HP,ZBook
+DESKTOP-1169,user39@company.com,Windows,11,compliant,2026-01-22,HP,ProBook 450
+LAPTOP-1170,user43@company.com,Windows,11,noncompliant,2026-03-09,Lenovo,ThinkPad T14
+MACBOOK-1171,user2@company.com,Windows,10,compliant,2026-03-14,HP,ZBook
+LAPTOP-1172,user31@company.com,Windows,10,compliant,2026-02-22,Dell,OptiPlex 7090
+DESKTOP-1173,user40@company.com,iOS,17,compliant,2026-01-26,Apple,iPad Pro
+ANDROID-1174,user2@company.com,Android,12,compliant,2026-02-15,Google,Pixel 6
+ANDROID-1175,user29@company.com,macOS,13,compliant,2026-03-12,Apple,iPhone 13
+MACBOOK-1176,user40@company.com,Windows,11,compliant,2026-02-10,Dell,Latitude 7420
+IPHONE-1177,user33@company.com,Android,13,compliant,2026-03-11,Google,Pixel 6
+IPHONE-1178,user29@company.com,Android,14,noncompliant,2026-02-19,Xiaomi,Mi 12
+ANDROID-1179,user7@company.com,Windows,10,compliant,2026-02-25,Microsoft,Surface Pro 9
+ANDROID-1180,user31@company.com,Android,13,compliant,2026-01-23,Google,Pixel 7
+ANDROID-1181,user48@company.com,Windows,11,compliant,2026-03-09,Microsoft,Surface Laptop 5
+LAPTOP-1182,user27@company.com,iOS,17,compliant,2026-02-03,Apple,iPad Air
+IPAD-1183,user20@company.com,macOS,12,compliant,2026-02-09,Apple,iPhone 14
+IPHONE-1184,user15@company.com,iOS,17,noncompliant,2026-02-23,Apple,iPad Air
+IPAD-1185,user15@company.com,iOS,16,noncompliant,2026-01-22,Apple,iPhone 14
+DESKTOP-1186,user18@company.com,iOS,17,compliant,2026-02-26,Apple,MacBook Pro
+DESKTOP-1187,user37@company.com,Windows,10,compliant,2026-03-13,Dell,Latitude 7420
+IPAD-1188,user14@company.com,Windows,11,compliant,2026-02-16,Dell,OptiPlex 7090
+ANDROID-1189,user21@company.com,Windows,11,compliant,2026-02-09,Lenovo,ThinkPad X1
+DESKTOP-1190,user49@company.com,iOS,17,compliant,2026-02-02,Apple,MacBook Air
+IPHONE-1191,user39@company.com,Windows,10,compliant,2026-02-28,Microsoft,Surface Pro 9
+LAPTOP-1192,user19@company.com,Windows,11,compliant,2026-02-08,Lenovo,ThinkPad X1
+DESKTOP-1193,user26@company.com,macOS,12,inGracePeriod,2026-03-14,Apple,MacBook Pro
+DESKTOP-1194,user49@company.com,Windows,11,compliant,2026-02-25,Lenovo,ThinkPad T14
+DESKTOP-1195,user9@company.com,Windows,11,compliant,2026-01-31,Microsoft,Surface Pro 9
+ANDROID-1196,user3@company.com,Windows,10,compliant,2026-02-16,Dell,XPS 13
+ANDROID-1197,user41@company.com,Windows,10,compliant,2026-03-10,Microsoft,Surface Pro 9
+IPAD-1198,user30@company.com,macOS,14,noncompliant,2026-01-18,Apple,MacBook Air
+DESKTOP-1199,user28@company.com,Windows,11,compliant,2026-02-12,Microsoft,Surface Laptop 5
